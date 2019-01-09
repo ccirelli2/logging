@@ -84,9 +84,14 @@ logging.warning(multi_result)
 logging.warning(divi_result)
 '''
 
+# Adding traceback to log
 
-
-
+try:
+    open('/path/to/does/not/exist', 'rb')
+except (SystemExit, KeyboardInterrupt):
+    raise
+except Exception, e:
+    logger.error('Failed to open file', exc_info=True)
 
 
 
