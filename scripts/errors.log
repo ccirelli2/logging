@@ -1,0 +1,22 @@
+Test
+2021-09-20 10:48:16,480 - my_logger - ERROR - Test
+2021-09-20 10:52:35,267 - my_logger - ERROR - Test
+2021-09-20 10:52:45,927 - my_logger - ERROR - Test
+2021-09-20 10:55:01,841 - my_logger - ERROR - Test
+2021-09-20 10:59:38,034 - my_logger - ERROR - test subjects - python
+2021-09-20 10:59:51,456 - my_logger - ERROR - test subjects - python
+2021-09-20 11:01:34,372 - my_logger - ERROR - test subjects - python - 3.91
+2021-09-20 11:01:49,549 - my_logger - ERROR - log-message - python - 3.91
+2021-09-20 11:06:45,465 - my_logger - ERROR - Crap - None - None
+2021-09-20 11:07:15,441 - my_logger - ERROR - Crap - None - None
+2021-09-20 11:07:32,731 - my_logger - ERROR - Crap - None - None
+2021-09-20 11:08:08,532 - my_logger - INFO - Crap - None - None
+2021-09-20 11:08:36,624 - my_logger - INFO - Crap - None - None
+2021-09-20 11:09:56,836 - my_logger - ERROR - Crap - None - None
+2021-09-20 11:10:19,656 - my_logger - ERROR - Crap - test - ok
+2021-09-20 11:12:07,696 - my_logger - ERROR - Crap - test - Ok
+2021-09-20 11:12:16,937 - my_logger - WARNING - Crap - test - Ok
+2021-09-20 11:17:42,373 - my_logger - ERROR - Missing input values - missing-values - TIV
+2021-09-20 11:19:23,292 - my_logger - ERROR - core-commercial-prod1 - assert statement - Missing input values - missing-values - TIV
+2021-09-20 14:07:48,583 | my_logger | WARNING | my butt | my_logger | test | i dont know | 123
+2021-09-20 14:27:55,720 | my_logger | WARNING | Swyfft63-LT | my butt | my_logger | test | i dont know | 123
